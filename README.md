@@ -1,2 +1,1 @@
-# Kindle_Highlights
- Kindle Highlights Manager
+https://kindlehighlightsmanager.streamlit.app/
