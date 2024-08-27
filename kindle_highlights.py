@@ -64,7 +64,7 @@ def display_groups(grouped_notes):
         st.markdown("---")
 
 # Início do Streamlit App
-st.title("Agrupamento de Notas por Contenção de Sequências (Mínimo 4 Palavras) com Verificação de Páginas")
+st.title("Kindle Highlights Manager")
 
 uploaded_file = st.file_uploader("Escolha um arquivo .txt", type="txt")
 
